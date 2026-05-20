@@ -1,150 +1,197 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aniket&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Problem%20Solver%20%7C%20Pragmatist&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,60:1a1a2e,100:16213e&height=220&section=header&text=Aniket%20Agrawal&fontSize=72&fontColor=00d4ff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20IIT%20Madras%20%E2%80%A2%20GenAI%20Builder&descAlignY=60&descSize=17&animation=fadeIn&fontAlign=50" />
 
-<!-- Typing SVG -->
-<a href="https://github.com/aniket">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fast+Learner.+Logical+Thinker.+Direct+Communicator.;I+don't+just+solve+problems+—+I+understand+them.;Always+building%2C+always+learning." alt="Typing SVG" />
-</a>
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer+%40+BIG+Language+Solutions;IIT+Madras+%7C+BS+Data+Science+%26+Applications;Building+LLMs+%7C+GenAI+%7C+Fine-Tuning+Expert;Sees+patterns+where+others+see+noise.;If+it+ain%27t+broke%2C+make+it+smarter." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=aniket&color=7c3aed&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/aniket?color=7c3aed&style=flat-square&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=aniket21715&color=00d4ff&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/aniket21715?color=00d4ff&style=flat-square&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/1.6k_Followers-LinkedIn-00d4ff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-agrawal-37b219246)
 
 </div>
 
 ---
 
-<!-- About Section -->
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### `whoami`
 
-### 🧠 Who Am I?
-
-```yaml
-name:        Aniket
-tagline:     "If it ain't broke, make it faster."
-personality: [Direct, Emotive, Pragmatic, Highly Agile]
-strengths:
-  - Clear & honest communicator
-  - Fast learner / logical problem solver
-  - Results-driven with practical thinking
-  - Comfortable working solo or in teams
-superpower:  Sees rules & patterns in everything
+```python
+class AniketAgrawal:
+    name       = "Aniket Agrawal"
+    role       = "Artificial Intelligence Engineer @ BIG Language Solutions"
+    education  = "BS Data Science & Applications — IIT Madras"
+    location   = "India  (Remote-first 🌍)"
+    focus      = ["LLM Fine-Tuning", "Generative AI", "NLP", "ML Systems"]
+    writing    = "Teaches AI in Hindi on Medium — making GenAI accessible"
+    superpower = "Sees rules and patterns in everything"
+    quote      = "I don't just solve problems — I understand them."
 ```
 
-> *"I care deeply about what I build — and I'm not afraid to tell you why something is broken."*  
-> — Red Bull Wingfinder Assessment, 2025
-
-<br clear="right"/>
-
 ---
 
-<!-- Trait Cards -->
-<div align="center">
-
-### ⚡ Core Traits — Wingfinder Certified
+### 💼 Experience
 
 <table>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/DIRECT-✦-7c3aed?style=for-the-badge&labelColor=0f0c29" /><br/>
-      <sub>Clear. Honest. No fluff.<br/>Gets the point across fast.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/EMOTIVE-✦-6d28d9?style=for-the-badge&labelColor=0f0c29" /><br/>
-      <sub>Cares deeply about the craft.<br/>Self-critical & fully invested.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/PRAGMATIC-✦-5b21b6?style=for-the-badge&labelColor=0f0c29" /><br/>
-      <sub>Results over buzzwords.<br/>Practical solutions first.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/HIGHLY%20AGILE-✦-4c1d95?style=for-the-badge&labelColor=0f0c29" /><br/>
-      <sub>Fast learner. Pattern finder.<br/>Complex problems? Bring them.</sub>
-    </td>
-  </tr>
+<tr>
+<td width="60" align="center"><strong>Now</strong></td>
+<td>
+<strong>🤖 Artificial Intelligence Engineer</strong><br/>
+<code>BIG Language Solutions</code> · Full-time · Remote<br/>
+<sub>Mar 2026 – Present · Atlanta, GA (Remote)</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2025</strong></td>
+<td>
+<strong>📊 Associate Data Scientist</strong><br/>
+<code>DataNNovite Sol</code> · Full-time · On-site<br/>
+<sub>Aug 2025 – Mar 2026 · Pune, Maharashtra</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2024</strong></td>
+<td>
+<strong>✨ Generative AI Engineer</strong><br/>
+<code>LOQO AI</code> · Full-time · Remote<br/>
+<sub>Oct 2024 – Aug 2025 · Built end-to-end AI platform for automated video content generation</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2024</strong></td>
+<td>
+<strong>🎓 BDM Capstone Project Mentor</strong><br/>
+<code>Indian Institute of Technology, Madras</code><br/>
+<sub>Oct 2024 – Jan 2025 · Mentored 50+ students in market analysis & inventory optimization</sub>
+</td>
+</tr>
 </table>
 
-</div>
-
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-</div>
-
----
-
-<!-- Skills Section -->
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
-![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
+**AI / ML**
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa)
-![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa)
-![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa)
-![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00d4ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00d4ff)
+
+**LLM Fine-Tuning**
+
+![Unsloth](https://img.shields.io/badge/Unsloth-0d1117?style=for-the-badge&logo=lightning&logoColor=00d4ff)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-0d1117?style=for-the-badge&logo=buffer&logoColor=00d4ff)
+![PEFT](https://img.shields.io/badge/PEFT-0d1117?style=for-the-badge&logo=buffer&logoColor=00d4ff)
+![TRL](https://img.shields.io/badge/TRL-0d1117?style=for-the-badge&logo=buffer&logoColor=00d4ff)
+![bitsandbytes](https://img.shields.io/badge/BitsAndBytes-0d1117?style=for-the-badge&logo=buffer&logoColor=00d4ff)
+
+**Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=00d4ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
-### 🔥 Contribution Activity
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aniket21715&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&bg_color=0d1117"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket21715&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
----
-
-<!-- Quote Section -->
 <div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket21715&theme=transparent&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=00d4ff&sideNums=00d4ff" />
 </div>
 
 ---
 
-<!-- Connect Section -->
+### ✍️ Latest on Medium
+
+> *Teaching AI in Hindi — making complex concepts accessible for everyone*
+
+[![LLM Fine-Tuning Article](https://img.shields.io/badge/📖_LLM_Fine--Tuning_se_Confused_Hain%3F_Unsloth_ke_saath_Samjhein-0d1117?style=for-the-badge&logo=medium&logoColor=00d4ff)](https://medium.com/@aniketag2001/llm-fine-tuning-se-confused-hain-aaiye-unsloth-ke-saath-sab-kuch-aasani-se-samjhein-1b4479ca0cf9)
+
+**Topics I write about:** `LLM Fine-Tuning` · `LoRA & QLoRA` · `Unsloth` · `Generative AI` · `Hindi Tech Explainers`
+
+---
+
 ### 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/aniket)
-[![Twitter](https://img.shields.io/badge/Twitter-0f0c29?style=for-the-badge&logo=twitter&logoColor=a78bfa)](https://twitter.com/aniket)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=a78bfa)](https://aniket.dev)
-[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:aniket@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Agrawal-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/aniket-agrawal-37b219246)
+[![Medium](https://img.shields.io/badge/Medium-@aniketag2001-0d1117?style=for-the-badge&logo=medium&logoColor=00d4ff)](https://medium.com/@aniketag2001)
+[![GitHub](https://img.shields.io/badge/GitHub-aniket21715-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/aniket21715)
 
 </div>
 
 ---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<div align="center">
+
+## 🏆 Hall of Fame
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=3&width=100%" />
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          ██████╗ ███████╗██████╗     ██████╗ ██╗   ██╗██╗   ║
+║          ██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██║   ██║██║   ║
+║          ██████╔╝█████╗  ██║  ██║    ██████╔╝██║   ██║██║   ║
+║          ██╔══██╗██╔══╝  ██║  ██║    ██╔══██╗██║   ██║██║   ║
+║          ██║  ██║███████╗██████╔╝    ██████╔╝╚██████╔╝███████╗
+║          ╚═╝  ╚═╝╚══════╝╚═════╝     ╚═════╝  ╚═════╝ ╚══════╝
+║                                                              ║
+║              W I N G F I N D E R   C E R T I F I E D        ║
+║                     April 18, 2025                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+| 🏅 Trait | ⚡ What It Means | 🎯 How I Use It |
+|:---:|:---|:---|
+| **DIRECT** | Clear, honest, no-fluff communication | Code reviews, feedback, technical writing |
+| **EMOTIVE** | Deeply invested in the craft | Every project I ship, I care about |
+| **PRAGMATIC** | Results > buzzwords, tested solutions first | Production-ready AI, not just demos |
+| **HIGHLY AGILE** | Fast learner, sees patterns in everything | New papers → working implementation fast |
+
+<br/>
+
+> *"Aniket is a fast learner, with a particular skill when it comes to dealing with more*
+> *complex reasoning problems. It's in his nature to think logically with a knack of seeing*
+> *rules and patterns in everything."*
+>
+> **— Red Bull Wingfinder Assessment, April 2025**
+
+<br/>
+
+![Red Bull Wingfinder](https://img.shields.io/badge/🐂_Red_Bull_Wingfinder-Top_4_Strengths_Certified-00d4ff?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,60:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub>🔍 Assessed by Red Bull Wingfinder · Built with passion & pragmatism</sub>
+  <sub>⚡ Built with passion & pragmatism · IIT Madras × BIG Language Solutions × Red Bull Wingfinder</sub>
 </div>
