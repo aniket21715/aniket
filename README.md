@@ -105,13 +105,22 @@ class AniketAgrawal:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
+
+> **Note — stats cards need one small fix to work on your profile:**
+> Fork **[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)** to your own account → deploy it on Vercel (free, 2 min) → replace the domain below with yours. This bypasses the rate limit permanently.
+
+<!-- Replace YOUR-VERCEL-APP below with your own deployment e.g. aniket-stats.vercel.app -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket21715&show_icons=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket21715&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+| Metric | Value |
+|:---|:---|
+| 🏢 Current Role | AI Engineer @ BIG Language Solutions |
+| 🎓 Education | IIT Madras — BS Data Science & Applications |
+| 💼 Experience | 3 Roles · 1.5+ Years in AI/ML |
+| 🌍 Reach | 50+ Students Mentored · 1,600 LinkedIn Followers |
+| ✍️ Writing | Published on Medium · Hindi AI Education |
 
 </div>
 
@@ -143,45 +152,18 @@ class AniketAgrawal:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a0a1a,100:0d1117&height=10" />
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:0f1e3d,100:0d1117&height=180&text=RED%20BULL%20WINGFINDER&fontSize=42&fontColor=00d4ff&fontAlignY=45&desc=CERTIFIED%20%E2%80%A2%20APRIL%2018%2C%202025&descSize=15&descAlignY=68&descColor=7ec8e3&animation=fadeIn" />
 
 <br/><br/>
 
-<table>
-  <thead>
-    <tr>
-      <th>🏅 Strength</th>
-      <th>⚡ Superpower</th>
-      <th>🎯 In Action</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>DIRECT</strong></td>
-      <td>Clear, honest, no-fluff communication</td>
-      <td>Code reviews · feedback · technical writing</td>
-    </tr>
-    <tr>
-      <td><strong>EMOTIVE</strong></td>
-      <td>Deeply invested in the craft</td>
-      <td>Every project shipped with care & intention</td>
-    </tr>
-    <tr>
-      <td><strong>PRAGMATIC</strong></td>
-      <td>Results over buzzwords</td>
-      <td>Production-ready AI — not just demos</td>
-    </tr>
-    <tr>
-      <td><strong>HIGHLY AGILE</strong></td>
-      <td>Fast learner · pattern finder</td>
-      <td>New paper → working implementation, fast</td>
-    </tr>
-  </tbody>
-</table>
+| 🏅 Strength | ⚡ Superpower | 🎯 In Action |
+|:---:|:---|:---|
+| **DIRECT** | Clear, honest, no-fluff communication | Code reviews · feedback · technical writing |
+| **EMOTIVE** | Deeply invested in the craft | Every project shipped with care & intention |
+| **PRAGMATIC** | Results over buzzwords | Production-ready AI — not just demos |
+| **HIGHLY AGILE** | Fast learner · pattern finder | New paper → working implementation, fast |
 
 <br/>
 
