@@ -108,12 +108,11 @@ class AniketAgrawal:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aniket21715&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&bg_color=0d1117"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket21715&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket21715&theme=transparent&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=00d4ff&sideNums=00d4ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket21715&show_icons=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket21715&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
 </div>
 
 ---
@@ -140,51 +139,63 @@ class AniketAgrawal:
 
 ---
 
-<div align="center">
-
 ## 🏆 Hall of Fame
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=3&width=100%" />
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          ██████╗ ███████╗██████╗     ██████╗ ██╗   ██╗██╗   ║
-║          ██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██║   ██║██║   ║
-║          ██████╔╝█████╗  ██║  ██║    ██████╔╝██║   ██║██║   ║
-║          ██╔══██╗██╔══╝  ██║  ██║    ██╔══██╗██║   ██║██║   ║
-║          ██║  ██║███████╗██████╔╝    ██████╔╝╚██████╔╝███████╗
-║          ╚═╝  ╚═╝╚══════╝╚═════╝     ╚═════╝  ╚═════╝ ╚══════╝
-║                                                              ║
-║              W I N G F I N D E R   C E R T I F I E D        ║
-║                     April 18, 2025                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a0a1a,100:0d1117&height=10" />
 
 <br/>
 
-| 🏅 Trait | ⚡ What It Means | 🎯 How I Use It |
-|:---:|:---|:---|
-| **DIRECT** | Clear, honest, no-fluff communication | Code reviews, feedback, technical writing |
-| **EMOTIVE** | Deeply invested in the craft | Every project I ship, I care about |
-| **PRAGMATIC** | Results > buzzwords, tested solutions first | Production-ready AI, not just demos |
-| **HIGHLY AGILE** | Fast learner, sees patterns in everything | New papers → working implementation fast |
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:0f1e3d,100:0d1117&height=180&text=RED%20BULL%20WINGFINDER&fontSize=42&fontColor=00d4ff&fontAlignY=45&desc=CERTIFIED%20%E2%80%A2%20APRIL%2018%2C%202025&descSize=15&descAlignY=68&descColor=7ec8e3&animation=fadeIn" />
+
+<br/><br/>
+
+<table>
+  <thead>
+    <tr>
+      <th>🏅 Strength</th>
+      <th>⚡ Superpower</th>
+      <th>🎯 In Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DIRECT</strong></td>
+      <td>Clear, honest, no-fluff communication</td>
+      <td>Code reviews · feedback · technical writing</td>
+    </tr>
+    <tr>
+      <td><strong>EMOTIVE</strong></td>
+      <td>Deeply invested in the craft</td>
+      <td>Every project shipped with care & intention</td>
+    </tr>
+    <tr>
+      <td><strong>PRAGMATIC</strong></td>
+      <td>Results over buzzwords</td>
+      <td>Production-ready AI — not just demos</td>
+    </tr>
+    <tr>
+      <td><strong>HIGHLY AGILE</strong></td>
+      <td>Fast learner · pattern finder</td>
+      <td>New paper → working implementation, fast</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-> *"Aniket is a fast learner, with a particular skill when it comes to dealing with more*
-> *complex reasoning problems. It's in his nature to think logically with a knack of seeing*
-> *rules and patterns in everything."*
+> *"Aniket is a fast learner, with a particular skill when it comes to dealing with complex reasoning problems.*
+> *It's in his nature to think logically with a knack of seeing rules and patterns in everything."*
 >
-> **— Red Bull Wingfinder Assessment, April 2025**
+> **— Red Bull Wingfinder, April 2025**
 
 <br/>
 
-![Red Bull Wingfinder](https://img.shields.io/badge/🐂_Red_Bull_Wingfinder-Top_4_Strengths_Certified-00d4ff?style=for-the-badge&labelColor=0d1117)
+![DIRECT](https://img.shields.io/badge/DIRECT-top%20strength-00d4ff?style=flat-square&labelColor=0d1117)
+![EMOTIVE](https://img.shields.io/badge/EMOTIVE-top%20strength-00d4ff?style=flat-square&labelColor=0d1117)
+![PRAGMATIC](https://img.shields.io/badge/PRAGMATIC-top%20strength-00d4ff?style=flat-square&labelColor=0d1117)
+![HIGHLY AGILE](https://img.shields.io/badge/HIGHLY%20AGILE-top%20strength-00d4ff?style=flat-square&labelColor=0d1117)
 
 </div>
 
