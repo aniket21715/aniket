@@ -107,10 +107,6 @@ class AniketAgrawal:
 
 ### 📊 GitHub Activity
 
-> **Note — stats cards need one small fix to work on your profile:**
-> Fork **[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)** to your own account → deploy it on Vercel (free, 2 min) → replace the domain below with yours. This bypasses the rate limit permanently.
-
-<!-- Replace YOUR-VERCEL-APP below with your own deployment e.g. aniket-stats.vercel.app -->
 
 <div align="center">
 
